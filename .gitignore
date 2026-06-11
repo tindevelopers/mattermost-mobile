@@ -1,4 +1,4 @@
-assets/override
+# assets/override — intentionally tracked for white-label TIN build
 dist
 build-ios
 *.zip
